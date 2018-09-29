@@ -5,7 +5,7 @@ import matplotlib.pyplot as p
 t = 0.1 #s
 g = 9.81 # m/s^2
 a = -g
-v_int = 20 # m/s
+v_int = 0 # m/s
 
 def trajectory():
 	angles = n.linspace(20,70,6)
@@ -24,6 +24,7 @@ def trajectory():
 			x[i+1] = x[i] + t * v[i]
 			v[i+1] = v[i] + t * a
 		p.plot(x[:,0], x[:,1])
+		p.show()
 	return x, v
 
 x, v = trajectory()
