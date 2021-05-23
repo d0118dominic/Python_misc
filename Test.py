@@ -1,13 +1,11 @@
-print """
-
-Which door do you choose?
 
 
+print ("Which door do you choose?")
 
-"""
 
 
-print """     
+print( 
+"""     
                _________
               |         |
 	      |   1     |
@@ -28,12 +26,13 @@ print """
 
 
 """
+)
 
 Choice = raw_input(">  ")
 if Choice == 1 or Choice.lower() == "one":
- print "  Yaaahh Breew  "
+ print("  Yaaahh Breew  ")
 if Choice == 2 or Choice.lower() == "two": 
- print """ NO """
+ print("No")
 
 
 			
