@@ -1,3 +1,5 @@
+# Very simple 
+
 import math as m
 import numpy as n
 import matplotlib.pyplot as p
@@ -28,5 +30,3 @@ def trajectory():
 	return x, v
 
 x, v = trajectory()
-
-trajectory()	

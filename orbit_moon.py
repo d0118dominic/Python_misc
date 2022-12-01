@@ -1,3 +1,5 @@
+# Get positions for a circular orbit of some distance
+
 import math as m
 import numpy as n
 import matplotlib.pyplot as plot

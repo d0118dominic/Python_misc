@@ -1,3 +1,4 @@
+# Assorted orbit stuff.  Basic physics/gravitation definitions.
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -115,6 +116,5 @@ ax.set_zlabel('Z axis')
 
 
 plt.show()
-
 
 
