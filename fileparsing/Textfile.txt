@@ -1,0 +1,14 @@
+
+Example of a line I want to skip with a number 100
+
+The number is 1.2345 and change
+The number is 543.21 and change
+The number is 15453 and change
+The number is 5.2515 and change
+The number is 4532.1 and change
+The number is NaN and change
+The number is 7 and change
+The number is 7o and change
+The number is 10000 and change
+The number is 1 and change
+The number is 0 and change
