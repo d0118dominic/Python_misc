@@ -1,3 +1,6 @@
+# Monty Hall Problem Game
+# Use to play out the monty hall problem in the terminal
+
 import numpy as np
 import random
 import time
